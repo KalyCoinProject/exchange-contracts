@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "NamerTestFakeOptionalERC20",
+  "sourceName": "contracts/kalyswap-lib/test/SafeERC20NamerTest.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212205af56c9328e0c6d470d75dac21d3c453e350fa67f86226c9643246b3ea374cbd64736f6c63430007060033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212205af56c9328e0c6d470d75dac21d3c453e350fa67f86226c9643246b3ea374cbd64736f6c63430007060033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
